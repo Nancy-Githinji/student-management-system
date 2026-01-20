@@ -1,6 +1,6 @@
 # Student Management System (Python CLI)
 
-A simple **Student Management System** built using **Python** and run from the **command line interface (CLI)**. This project was created as a beginner-friendly project suitable for a **software engineering / IT internship portfolio**.
+A simple **Student Management System** built using **Python** and run from the **command line interface (CLI)**. This project was created as a beginner-friendly project suitable for a **software engineering and IT internship portfolio**.
 
 ---
 
@@ -27,7 +27,7 @@ A simple **Student Management System** built using **Python** and run from the *
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/YOUR-USERNAME/student-management-system.git
+   git clone https://github.com/Nancy-Githinji/student-management-system.git
    ```
 
 2. Navigate into the project folder:
